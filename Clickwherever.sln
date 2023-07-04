@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clickwherever", "Clickwherever\Clickwherever.csproj", "{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Debug|Any CPU.Build.0 = Debug|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Debug|x86.ActiveCfg = Debug|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Debug|x86.Build.0 = Debug|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Release|Any CPU.ActiveCfg = Release|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Release|Any CPU.Build.0 = Release|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Release|x86.ActiveCfg = Release|x86
+		{DB0AD3DC-A312-47E5-98E6-29D1D15377AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B995A1-E6E5-422F-AD82-03AD352A2D24}
+	EndGlobalSection
+EndGlobal
